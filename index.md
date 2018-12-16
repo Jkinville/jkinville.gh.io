@@ -1,39 +1,25 @@
 ## Welcome to GitHub Pages
 
+
+
+# Professional Self-assessment
+
+  Though it is easy to say, like many CS students, that I am mostly self-taught it would also be disingenuous to claim that statement as completely true. The basics of software development are quite easy to learn on your own with a few books and the ability to experiment, but even slightly more advanced topics such as data structures and algorithms, the true building blocks of software, are difficult to master without a formal education, and topics such as databases and security can be a mammoth task for those self-learners. Then there are soft topics that might not seem too important when we are developing software alone but are paramount to any enterprise software project. These skills are communication, collaboration, the ability to compromise, the ability to understand business goals, my computer science course work has given me and enhanced all of these skills. My course work actually directly led to my current job first as a DevOps Intern for two years and now as a full time Cloud Security and Site Reliability engineer for a year. Without the skills I have gained and fostered through my course work in network and application security, software development, and networking I would have never been able to start my career. 
+	
+  The three artifacts I have chosen to include in my portfolio all come from my early programming days with improvements to reflect what I have learned. The stock ticker tracker is a good indicator of software development and engineering ability. It also demonstrates my knowledge of object-oriented programing, algorithms and data structures, testing, and application and network security. My card tracker code demonstrates my knowledge of algorithms and data structures, as well as object-oriented programing, and databases. Finally, my zoo admin program reflects my use of application security, databases, and cloud networking, as well as general software development and engineering, and testing
+
+# Code Review
+
 https://learn.snhu.edu/d2l/le/dropbox/126914/285452/DownloadSubmissionFile?fid=4932851&sid=3739663
 
-You can use the [editor on GitHub](https://github.com/Jkinville/jkinville.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Artifact 1
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+https://github.com/Jkinville/Stock-Ticker-Tracker
 
-### Markdown
+# Artifact 2
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://github.com/Jkinville/CardCollections
 
-```markdown
-Syntax highlighted code block
+# Artifact 3
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jkinville/jkinville.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+https://github.com/Jkinville/CSIII-Final-project
