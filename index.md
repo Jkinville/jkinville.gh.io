@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my CS undergrad portfolio 
 
 
 
@@ -10,16 +10,16 @@
 
 # Code Review
 
-https://learn.snhu.edu/d2l/le/dropbox/126914/285452/DownloadSubmissionFile?fid=4932851&sid=3739663
+[Link]https://learn.snhu.edu/d2l/le/dropbox/126914/285452/DownloadSubmissionFile?fid=4932851&sid=3739663
 
 # Artifact 1
 
-https://github.com/Jkinville/Stock-Ticker-Tracker
+[Link]https://github.com/Jkinville/Stock-Ticker-Tracker
 
 # Artifact 2
 
-https://github.com/Jkinville/CardCollections
+[Link]https://github.com/Jkinville/CardCollections
 
 # Artifact 3
 
-https://github.com/Jkinville/CSIII-Final-project
+[Link]https://github.com/Jkinville/CSIII-Final-project
